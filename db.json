@@ -1,5 +1,5 @@
 {
-    "products":[
+    "products": [
         {
             "id": 1,
             "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -9,156 +9,28 @@
             "rating": 3.9
         },
         {
-            "id": 2,
-            "title": "Mens Casual Premium Slim Fit T-Shirts ",
-            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-            "category": "men's clothing",
-            "price": 22.3,
-            "rating": 4.1
-        },
-        {
-            "id": 3,
-            "title": "Mens Cotton Jacket",
-            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-            "category": "men's clothing",
-            "price": 55.99,
-            "rating": 4.7
-        },
-        {
-            "id": 4,
-            "title": "Mens Casual Slim Fit",
-            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-            "category": "men's clothing",
-            "price": 15.99,
-            "rating": 2.1
-        },
-        {
             "id": 5,
             "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
             "category": "jewelery",
             "price": 695,
             "rating": 4.6
         },
         {
-            "id": 6,
-            "title": "Solid Gold Petite Micropave ",
-            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States.",
-            "category": "jewelery",
-            "price": 168,
-            "rating": 3.9
-        },
-        {
-            "id": 7,
-            "title": "White Gold Plated Princess",
-            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-            "category": "jewelery",
-            "price": 9.99,
-            "rating": 3
-        },
-        {
-            "id": 8,
-            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-            "category": "jewelery",
-            "price": 10.99,
-            "rating": 1.9
-        },
-        {
             "id": 9,
-            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatible with Windows, Mac and Linux",
+            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity.",
             "category": "electronics",
             "price": 64,
             "rating": 3.3
         },
         {
-            "id": 10,
-            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-            "description": "Easy upgrade for faster boot up, shutdown, application load and response. Boosts burst write performance, making it ideal for typical PC workloads",
-            "category": "electronics",
-            "price": 109,
-            "rating": 2.9
-        },
-        {
-            "id": 11,
-            "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan",
-            "category": "electronics",
-            "price": 109,
-            "rating": 4.8
-        },
-        {
-            "id": 12,
-            "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-            "category": "electronics",
-            "price": 114,
-            "rating": 4.8
-        },
-        {
-            "id": 13,
-            "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-            "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount. Refresh rate: 75Hz - Using HDMI port",
-            "category": "electronics",
-            "price": 599,
-            "rating": 2.9
-        },
-        {
-            "id": 14,
-            "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor",
-            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side Quantum dot (QLED) technology, HDR support and factory calibration provides stunningly realistic and accurate color and contrast",
-            "category": "electronics",
-            "price": 999.99,
-            "rating": 2.2
-        },
-        {
             "id": 15,
             "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear. Waterpoof Windproof Snow Ski Jacket, also for other winter outdoor sports. Detachable liner, warm and lightweight.",
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear.",
             "category": "women's clothing",
             "price": 56.99,
             "rating": 2.6
-        },
-        {
-            "id": 16,
-            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-            "description": "100% POLYURETHANE (shell) 100% POLYESTER (lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort, suitable for all seasons.",
-            "category": "women's clothing",
-            "price": 29.95,
-            "rating": 2.9
-        },
-        {
-            "id": 17,
-            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-            "description": "Lightweight perfect for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes lined and two front pockets.",
-            "category": "women's clothing",
-            "price": 39.99,
-            "rating": 3.8
-        },
-        {
-            "id": 18,
-            "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort",
-            "category": "women's clothing",
-            "price": 9.85,
-            "rating": 4.7
-        },
-        {
-            "id": 19,
-            "title": "Opna Women's Short Sleeve Moisture",
-            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit",
-            "category": "women's clothing",
-            "price": 7.95,
-            "rating": 4.5
-        },
-        {
-            "id": 20,
-            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees",
-            "category": "women's clothing",
-            "price": 12.99,
-            "rating": 3.6
         },
         {
             "id": 21,
@@ -169,25 +41,9 @@
             "rating": 4.9
         },
         {
-            "id": 22,
-            "title": "Nike Revolution 5 Running Shoes",
-            "description": "Lightweight mesh and soft foam cushioning keep you running in comfort. Durable rubber outsole for reliable traction.",
-            "category": "men's clothing",
-            "price": 65.00,
-            "rating": 4.3
-        },
-        {
-            "id": 23,
-            "title": "Samsung Galaxy Watch 6",
-            "description": "Advanced health monitoring, fitness tracking, and a stylish design. Compatible with Android and iOS.",
-            "category": "electronics",
-            "price": 299.99,
-            "rating": 4.5
-        },
-        {
             "id": 24,
             "title": "Ray-Ban Classic Aviator Sunglasses",
-            "description": "Timeless design, 100% UV protection, and durable metal frame. Perfect for any occasion.",
+            "description": "Timeless design, 100% UV protection, and durable metal frame.",
             "category": "jewelery",
             "price": 154.00,
             "rating": 4.7
@@ -195,26 +51,10 @@
         {
             "id": 25,
             "title": "Levi's Women's 721 High Rise Skinny Jeans",
-            "description": "Super stretch denim, high-rise fit, and classic five-pocket styling for everyday comfort and style.",
+            "description": "Super stretch denim, high-rise fit, and classic five-pocket styling.",
             "category": "women's clothing",
             "price": 49.99,
             "rating": 4.4
-        },
-        {
-            "id": 26,
-            "title": "Sony WH-1000XM5 Wireless Headphones",
-            "description": "Industry-leading noise cancellation, up to 30 hours battery life, and touch controls.",
-            "category": "electronics",
-            "price": 399.99,
-            "rating": 4.8
-        },
-        {
-            "id": 27,
-            "title": "Adidas Men's Essentials Fleece Hoodie",
-            "description": "Soft fleece fabric, adjustable drawcord hood, and kangaroo pocket for comfort.",
-            "category": "men's clothing",
-            "price": 45.00,
-            "rating": 4.6
         },
         {
             "id": 28,
@@ -233,43 +73,11 @@
             "rating": 4.5
         },
         {
-            "id": 30,
-            "title": "Kate Spade New York Pendant Necklace",
-            "description": "Gold-tone necklace with a delicate pendant, perfect for everyday wear.",
-            "category": "jewelery",
-            "price": 58.00,
-            "rating": 4.7
-        },
-        {
-            "id": 31,
-            "title": "Fitbit Charge 6 Fitness Tracker",
-            "description": "Heart rate monitoring, built-in GPS, and up to 7 days battery life.",
-            "category": "electronics",
-            "price": 129.95,
-            "rating": 4.4
-        },
-        {
             "id": 32,
             "title": "Columbia Women's Benton Springs Fleece Jacket",
             "description": "Soft fleece, modern classic fit, and zippered hand pockets.",
             "category": "women's clothing",
             "price": 39.99,
-            "rating": 4.6
-        },
-        {
-            "id": 33,
-            "title": "Garmin Forerunner 55 GPS Running Watch",
-            "description": "Track distance, pace, and intervals with built-in GPS and heart rate monitor.",
-            "category": "electronics",
-            "price": 199.99,
-            "rating": 4.5
-        },
-        {
-            "id": 34,
-            "title": "Michael Kors Women's Parker Chronograph Watch",
-            "description": "Stainless steel, glitz accents, and water resistant up to 100 meters.",
-            "category": "jewelery",
-            "price": 195.00,
             "rating": 4.6
         },
         {
@@ -311,54 +119,6 @@
             "category": "electronics",
             "price": 399.00,
             "rating": 4.9
-        },
-        {
-            "id": 40,
-            "title": "Fossil Men's Nate Stainless Steel Chronograph Watch",
-            "description": "Oversized design, durable stainless steel, and water resistant.",
-            "category": "jewelery",
-            "price": 139.00,
-            "rating": 4.4
-        },
-        {
-            "id": 41,
-            "title": "Champion Women's Powerblend Fleece Hoodie",
-            "description": "Soft, durable fleece with a relaxed fit and front kanga pocket.",
-            "category": "women's clothing",
-            "price": 40.00,
-            "rating": 4.6
-        },
-        {
-            "id": 42,
-            "title": "Dell XPS 13 Laptop",
-            "description": "13.4-inch FHD+ display, Intel Core i7, and long battery life.",
-            "category": "electronics",
-            "price": 999.99,
-            "rating": 4.8
-        },
-        {
-            "id": 43,
-            "title": "Swarovski Crystal Tennis Bracelet",
-            "description": "Elegant design with sparkling Swarovski crystals and secure clasp.",
-            "category": "jewelery",
-            "price": 89.99,
-            "rating": 4.7
-        },
-        {
-            "id": 44,
-            "title": "PUMA Men's Essentials Logo Sweatpants",
-            "description": "Comfortable fit, elastic waistband, and side pockets for convenience.",
-            "category": "men's clothing",
-            "price": 35.00,
-            "rating": 4.5
-        },
-        {
-            "id": 45,
-            "title": "Calvin Klein Women's Modern Cotton Bralette",
-            "description": "Soft cotton blend, racerback design, and iconic logo band.",
-            "category": "women's clothing",
-            "price": 28.00,
-            "rating": 4.6
         }
     ]
 }
