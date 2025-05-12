@@ -1,124 +1,219 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-            "category": "men's clothing",
-            "price": 109.95,
-            "rating": 3.9
-        },
-        {
-            "id": 5,
-            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
-            "category": "jewelery",
-            "price": 695,
-            "rating": 4.6
-        },
-        {
-            "id": 9,
-            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
-            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity.",
-            "category": "electronics",
-            "price": 64,
-            "rating": 3.3
-        },
-        {
-            "id": 15,
-            "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear.",
-            "category": "women's clothing",
-            "price": 56.99,
-            "rating": 2.6
-        },
-        {
-            "id": 21,
-            "title": "Apple AirPods Pro (2nd Generation)",
-            "description": "Active Noise Cancellation, Transparency mode, Adaptive EQ, and a customizable fit for all-day comfort.",
-            "category": "electronics",
-            "price": 249.99,
-            "rating": 4.9
-        },
-        {
-            "id": 24,
-            "title": "Ray-Ban Classic Aviator Sunglasses",
-            "description": "Timeless design, 100% UV protection, and durable metal frame.",
-            "category": "jewelery",
-            "price": 154.00,
-            "rating": 4.7
-        },
-        {
-            "id": 25,
-            "title": "Levi's Women's 721 High Rise Skinny Jeans",
-            "description": "Super stretch denim, high-rise fit, and classic five-pocket styling.",
-            "category": "women's clothing",
-            "price": 49.99,
-            "rating": 4.4
-        },
-        {
-            "id": 28,
-            "title": "Apple MacBook Air M2",
-            "description": "Supercharged by the Apple M2 chip, 13.6-inch Liquid Retina display, and all-day battery life.",
-            "category": "electronics",
-            "price": 1199.00,
-            "rating": 4.9
-        },
-        {
-            "id": 29,
-            "title": "Casio Men's G-Shock Quartz Watch",
-            "description": "Shock resistant, 200 meter water resistance, and LED backlight.",
-            "category": "jewelery",
-            "price": 99.99,
-            "rating": 4.5
-        },
-        {
-            "id": 32,
-            "title": "Columbia Women's Benton Springs Fleece Jacket",
-            "description": "Soft fleece, modern classic fit, and zippered hand pockets.",
-            "category": "women's clothing",
-            "price": 39.99,
-            "rating": 4.6
-        },
-        {
-            "id": 35,
-            "title": "Under Armour Men's Tech 2.0 T-Shirt",
-            "description": "Quick-drying, ultra-soft fabric with a more natural feel.",
-            "category": "men's clothing",
-            "price": 25.00,
-            "rating": 4.7
-        },
-        {
-            "id": 36,
-            "title": "Samsung Galaxy Tab S8",
-            "description": "11-inch LCD display, S Pen included, and long-lasting battery.",
-            "category": "electronics",
-            "price": 699.99,
-            "rating": 4.8
-        },
-        {
-            "id": 37,
-            "title": "Pandora Moments Snake Chain Bracelet",
-            "description": "Sterling silver, classic design, and compatible with Pandora charms.",
-            "category": "jewelery",
-            "price": 65.00,
-            "rating": 4.5
-        },
-        {
-            "id": 38,
-            "title": "The North Face Women's Resolve 2 Jacket",
-            "description": "Waterproof, breathable, and seam-sealed for outdoor adventures.",
-            "category": "women's clothing",
-            "price": 89.00,
-            "rating": 4.7
-        },
-        {
-            "id": 39,
-            "title": "Apple Watch Series 9",
-            "description": "Advanced health features, always-on Retina display, and fast charging.",
-            "category": "electronics",
-            "price": 399.00,
-            "rating": 4.9
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "rating": 4.94,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+      "category": "beauty",
+      "brand": "Essence",
+      "price": 9.99,
+      "dateCreated": "2024-05-23T08:56:21.618Z"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "rating": 3.28,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+      "category": "beauty",
+      "brand": "Glamour Beauty",
+      "price": 19.99,
+      "dateCreated": "2024-05-23T08:56:21.618Z"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "rating": 3.82,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
+      "category": "beauty",
+      "brand": "Velvet Touch",
+      "price": 14.99,
+      "dateCreated": "2024-05-23T08:56:21.618Z"
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "rating": 2.51,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png",
+      "category": "beauty",
+      "brand": "Chic Cosmetics",
+      "price": 12.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "rating": 3.91,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png",
+      "category": "beauty",
+      "brand": "Nail Couture",
+      "price": 8.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "rating": 4.85,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png",
+      "category": "fragrances",
+      "brand": "Calvin Klein",
+      "price": 49.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "rating": 2.76,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png",
+      "category": "fragrances",
+      "brand": "Chanel",
+      "price": 129.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "rating": 3.31,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png",
+      "category": "fragrances",
+      "brand": "Dior",
+      "price": 89.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "rating": 2.68,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png",
+      "category": "fragrances",
+      "brand": "Dolce & Gabbana",
+      "price": 69.99,
+      "dateCreated": "2024-05-23T08:56:21.619Z"
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "rating": 2.69,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png",
+      "category": "fragrances",
+      "brand": "Gucci",
+      "price": 79.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "rating": 4.14,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png",
+      "category": "furniture",
+      "brand": "Annibale Colombo",
+      "price": 1899.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "rating": 3.08,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png",
+      "category": "furniture",
+      "brand": "Annibale Colombo",
+      "price": 2499.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "rating": 4.48,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+      "category": "furniture",
+      "brand": "Furniture Co.",
+      "price": 299.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "rating": 4.11,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png",
+      "category": "furniture",
+      "brand": "Knoll",
+      "price": 499.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "rating": 3.26,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png",
+      "category": "furniture",
+      "brand": "Bath Trends",
+      "price": 799.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "rating": 2.96,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png",
+      "category": "groceries",
+      "price": 1.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "rating": 2.83,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png",
+      "category": "groceries",
+      "price": 12.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "rating": 2.88,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png",
+      "category": "groceries",
+      "price": 8.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "rating": 4.61,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png",
+      "category": "groceries",
+      "price": 9.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "rating": 4.01,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png",
+      "category": "groceries",
+      "price": 4.99,
+      "dateCreated": "2024-05-23T08:56:21.620Z"
+    }
+  ]
 }
