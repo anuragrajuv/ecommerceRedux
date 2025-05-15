@@ -1,0 +1,92 @@
+.product-card {
+  background: #f3f4f6;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  max-width: 900px;
+  margin: 1.5rem auto;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: opacity 0.4s, transform 0.4s;
+}
+
+/* Add this class when deleting */
+.product-card.slide-fade-out {
+  opacity: 0;
+  transform: translateX(60px);
+  pointer-events: none;
+}
+
+.product-card img {
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  border-radius: 0.5rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+}
+
+.product-details {
+  flex: 1;
+}
+
+.product-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.product-price {
+  color: #374151;
+  margin-bottom: 0.5rem;
+}
+
+
+.product-rating {
+  display: flex;
+  gap: 0.15rem;
+  margin-top: 0.25rem;
+}
+
+.product-description {
+  flex: 1;
+  font-size: 0.95rem;
+  color: #374151;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.product-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.product-actions .icon {
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
+.product-actions .icon:hover {
+  transform: scale(1.15);
+}
+
+
+.edit-product-form{
+  display: flex;
+  background: #f3f4f6;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: none;
+}
+
+
+.product-edit-button{
+  border: none;
+  outline: none;
+}
+
+.edit-product-price{
+  display: inline-flex;
+}

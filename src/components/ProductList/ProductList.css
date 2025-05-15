@@ -1,0 +1,13 @@
+.sort-container{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    position: relative;
+    margin-left: auto;
+}
+
+.clear-sort{
+    cursor: pointer;
+}

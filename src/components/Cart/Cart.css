@@ -1,0 +1,10 @@
+.cart-total{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    justify-self: center;
+}
+
+.item-total{
+    width: 20%;
+}
