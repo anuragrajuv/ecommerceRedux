@@ -1,3 +1,64 @@
+# E-commerce React Redux App
+
+This project is a simple e-commerce web application built with React, Redux, and Redux Toolkit. It demonstrates product listing, cart management, and basic CRUD operations for products.
+
+## Features
+
+- Product listing with images, categories, and ratings
+- Add, edit, and remove products (admin functionality)
+- Shopping cart with add/remove functionality
+- State management using Redux Toolkit
+- Responsive and modern UI
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher recommended)
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone <https://github.com/anuragrajuv/ecommerceRedux.git>
+   cd ecommerce-react-redux
+   ```
+
+2. Install dependencies:
+   ```
+   npm install
+   ```
+
+3. Start the development server:
+   ```
+   npm start
+   ```
+   The app will be available at [http://localhost:3000](http://localhost:3000).
+
+### Available Scripts
+
+- `npm start` — Runs the app in development mode.
+- `npm test` — Launches the test runner.
+- `npm run build` — Builds the app for production.
+- `npm run eject` — Ejects the app (not reversible).
+
+## Project Structure
+
+- `src/` — Main source code
+  - `components/` — Reusable UI components (Cart, Loader, Nav, ProductCard, ProductList)
+  - `Pages/` — Page components (Home, AddProduct)
+  - `redux/` — Redux slices for cart and products
+  - `app/store.js` — Redux store configuration
+- `public/` — Static assets and HTML template
+- `db.json` — Mock database for products
+
+## Learn More
+
+- [React documentation](https://reactjs.org/)
+- [Redux documentation](https://redux.js.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
