@@ -14,16 +14,21 @@ import { useSelector } from 'react-redux';
 function App() {
 
   const loading = useSelector(loadingSelector);
-  console.log(loading);
-  const router = createBrowserRouter([
-    {path: "/",element: <Nav />,
-      children: [
-        {index: true,element: <Home />},
-        {path: "cart",element: <Cart />},
-        {path:"add-product",element:<AddProduct/>}
-      ]
-    }
-  ]);
+  const basename = process.env.PUBLIC_URL || "/";
+  const router = createBrowserRouter(
+    [
+      {
+        path: "/",
+        element: <Nav />,
+        children: [
+          { index: true, element: <Home /> },
+          { path: "cart", element: <Cart /> },
+          { path: "add-product", element: <AddProduct /> }
+        ]
+      }
+    ],
+    { basename }
+  );
 
   return (
     <div className="App">
